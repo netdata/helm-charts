@@ -3,7 +3,7 @@ entries:
   kubernetes-ingress:
   - apiVersion: v1
     appVersion: 1.5.0
-    created: "2021-04-09T10:49:33.991119+03:00"
+    created: "2021-04-11T00:18:13.511206+03:00"
     description: A Helm chart for HAProxy Kubernetes Ingress Controller
     digest: e46e232be47bc4a6c9f65f1e151dbf15817da8e9ec0308c8136132f04429b3b4
     home: https://github.com/haproxytech/helm-charts/tree/master/kubernetes-ingress
@@ -23,6 +23,6 @@ entries:
     sources:
     - https://github.com/haproxytech/kubernetes-ingress
     urls:
-    - https://netdata.github.io/haproxy-helm-chart/kubernetes-ingress-1.12.0-3aa2b73baf9ebe193edff2c88806d932f601aadf.tgz
+    - https://netdata.github.io/haproxy-helm-chart/kubernetes-ingress-1.12.0-326f76e6345e967d7e1bb44b2f490c1424d776f6.tgz
     version: 1.12.0
-generated: "2021-04-09T10:49:33.987589+03:00"
+generated: "2021-04-11T00:18:13.508477+03:00"
